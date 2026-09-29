@@ -5,10 +5,15 @@ A console-based **Event Ticket Booking System** developed using **C++**.
 ## 📌 Features
 
 - Add new events
+  
 - View available events
+  
 - Book tickets
+  
 - View booked tickets
+  
 - Generate ticket IDs
+  
 - Supports Concert, Sports, and Theater events
 
 ## 🛠️ Concepts Used
