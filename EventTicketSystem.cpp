@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+
 class Ticket {
 public:
     int id;
@@ -14,6 +15,7 @@ public:
         id = -1;
         valid = false;
     }
+
 
     Ticket(int i, string n, string e, double p) {
         id = i;
